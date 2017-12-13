@@ -1,0 +1,6 @@
+Josh,333
+Kaila,110
+Joyce,500
+Bob,600
+Cindy,70
+player 1,3
